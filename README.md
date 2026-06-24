@@ -53,7 +53,7 @@ A responsive web application that allows users to search GitHub profiles and rep
 
 ### Light Mode
 
-![Light Mode](toggle_theme.png)
+![Light Mode](light-mode.png)
 
 ### Recent Searches
 
