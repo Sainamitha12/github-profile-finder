@@ -41,23 +41,23 @@ A responsive web application that allows users to search GitHub profiles and rep
 
 ### Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](home-page.png)
 
 ### User Search
 
-![User Search](screenshots/user-search.png)
+![User Search](user-search.png)
 
 ### Repository Search
 
-![Repository Search](screenshots/repository-search.png)
+![Repository Search](repository-search.png)
 
 ### Light Mode
 
-![Light Mode](screenshots/light-mode.png)
+![Light Mode](toggle_theme.png)
 
 ### Recent Searches
 
-![Recent Searches](screenshots/recent-searches.png)
+![Recent Searches](recent-searches.png)
 
 ---
 
